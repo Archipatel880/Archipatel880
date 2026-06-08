@@ -2,7 +2,7 @@
 
 ### 💻 Aspiring Software Engineer | 🎨 UI/UX Designer | 📊 Data Analytics Enthusiast
 
-I am a final-year Computer Science student passionate about Software Development, UI/UX Design, and Data Analytics. I enjoy building practical projects, learning new technologies, and creating user-friendly digital experiences.
+I am a Computer Science graduate passionate about Software Development, UI/UX Design, and Data Analytics. I enjoy building practical projects, learning new technologies, and creating user-friendly digital experiences.
 
 ## 🛠 Skills
 
